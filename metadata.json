@@ -1,0 +1,6 @@
+{
+  "name": "SIM-TIRTA LESTARI",
+  "description": "Sistem Informasi Administrasi, Pelayanan, Billing, Keuangan, dan Transparansi KPSPAM Tirta Lestari Kalurahan Ngawu, Kapanewon Playen, Kabupaten Gunungkidul",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
